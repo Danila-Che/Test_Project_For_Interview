@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfVector2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Vector2>
+    <x>1.33625138</x>
+    <y>2.20689654</y>
+  </Vector2>
+  <Vector2>
+    <x>-0.8562362</x>
+    <y>0.890259147</y>
+  </Vector2>
+  <Vector2>
+    <x>-1.36543548</x>
+    <y>-1.797634</y>
+  </Vector2>
+  <Vector2>
+    <x>0.881066561</x>
+    <y>-0.906116</y>
+  </Vector2>
+</ArrayOfVector2>
